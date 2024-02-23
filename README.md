@@ -13,4 +13,7 @@ The Online FIR Filing and Complaint Management System is a web application desig
 
 ![log new complain](https://github.com/adnanpatel878/Online-Fir-Filing-and-Complaint-Management-System/assets/105789120/f96141fe-481a-41fc-955d-c63dec45ba1c)
 
+<h3>complaint management page</h3>
+![complaint management page](https://github.com/adnanpatel878/Online-Fir-Filing-and-Complaint-Management-System/assets/105789120/04952cb0-41a2-42c5-a2fc-196e1343d8d7)
+
 
